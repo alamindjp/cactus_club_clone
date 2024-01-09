@@ -5,7 +5,7 @@ import React, { useState } from "react";
 import Logo from "@/assets/icons/CactusClub.png";
 import { NavItem } from "@/assets/NavbarItems";
 import barIcon from "@/assets/icons/ion_menu.svg";
-import xIcon from "../../../assets/icons/x.svg";
+import xIcon from "../../../assets/icons/X.svg";
 import RightIcon from "@/assets/icons/chevron-right.svg";
 
 const Navbar = () => {

@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import xIcon from '@/assets/icons/x.svg';
+import xIcon from '@/assets/icons/X.svg';
 import Link from 'next/link';
 
 const LoginHeader = () => {
